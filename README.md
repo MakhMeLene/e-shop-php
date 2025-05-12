@@ -1,2 +1,2 @@
-# e-shop-php
-An online store that sells cameras and hand watches created using php
+Login Id: yugeshverma@gmail.com
+Password:123456
